@@ -5,8 +5,7 @@ import numpy as np
 import os
 import pickle
 import random
-from data_loader import get_loader
-from build_vocab import Vocabulary
+from preprocessing import *
 from model_seq2seq import EncoderStory, DecoderStory
 from torch.autograd import Variable
 from torchvision import transforms
