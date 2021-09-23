@@ -1,19 +1,14 @@
 # VisualStorytelling
 
-
 ### Dependencies
 Python 3.6 or 2.7<br>
 [Pytorch](https://pytorch.org) >= 1.0.0
-
 <br>
-
 ### Prerequisites
-
 ##### 1. Clone the repository
 ```
-git clone https://github.com/tkim-snu/GLACNet.git
+git clone https://github.com/gprakhar579/VisualStorytelling.git
 ```
-
 ##### 2. Download requirements
 ```
 pip3 install -r requirements.txt
