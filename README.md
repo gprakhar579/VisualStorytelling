@@ -32,7 +32,6 @@ All the images should be resized to 256x256.
 python3 resize.py --image_dir [train_image_dir] --output_dir [output_train_dir]
 python3 resize.py --image_dir [val_image_dir] --output_dir [output_val_dir]
 python3 resize.py --image_dir [test_image_dir] --output_dir [output_test_dir]
-python3 build_vocab.py
 ```
 
 <br>
